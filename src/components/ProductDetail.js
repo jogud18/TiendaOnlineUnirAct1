@@ -11,7 +11,7 @@ function ProductDetail() {
       id: id,
       name: `Producto ${id}`,
       longDescription: 'Descripción larga del producto',
-      image: '/path/to/image.jpg',
+      image: '',
       price: '$100',
     };
     setProduct(fetchedProduct);

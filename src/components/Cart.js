@@ -7,7 +7,7 @@ function Cart() {
     // Simulación de llamada a la API
     const fetchedCartItems = [
       // Datos de ejemplo
-      { id: 1, name: 'Producto 1', image: '/path/to/image1.jpg', price: '$100' },
+      { id: 1, name: 'Producto 1', image: '', price: '$100' },
     ];
     setCartItems(fetchedCartItems);
   }, []);

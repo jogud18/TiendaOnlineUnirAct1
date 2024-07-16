@@ -5,13 +5,13 @@ function Checkout() {
     <div className="checkout">
       <h1>Checkout</h1>
       <form>
-        <label>Name</label>
+        <label>Nombre</label>
         <input type="text" />
-        <label>Address</label>
+        <label>Direccion</label>
         <input type="text" />
-        <label>Payment Method</label>
+        <label>Metodo de pago</label>
         <input type="text" />
-        <button>Place Order</button>
+        <button>orden</button>
       </form>
     </div>
   );

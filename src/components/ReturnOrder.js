@@ -3,7 +3,7 @@ import React from 'react';
 function ReturnOrder() {
   return (
     <div className="return-order">
-      <h1>Return Order</h1>
+      <h1>Devoluciones</h1>
       <form>
         <label>Orden:  </label>
         <input type="text" />
